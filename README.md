@@ -1,5 +1,7 @@
 # Overview
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/70b242f8-475c-49af-8c6d-d6c7a024f03b.svg?orgId=181077132735)](https://app.soluble.cloud/repos/details/github.com/galenemery/audit-demo?orgId=181077132735)  
+
 This repository is a fully complete demo cookbook and role to use the audit cookbook to run inspec and report to Automate.
 
 # Repository Directories
